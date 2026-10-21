@@ -1,0 +1,10 @@
+patient_id,admission_date,name,age,gender,diagnosis,systolic_bp,diastolic_bp,heart_rate,medication,doctor_assigned,contact_number,email
+1,2023-03-12,John Smith,45,Male,Diabetes,130,85,72,Metformin,Dr. Adams,9876543210,john@email.com
+2,2023-03-13,Jane Doe,32,Female,Hypertension,143,98,80,Lisinopril,Dr. Brown,8765432109,jane@email.com
+3,2023-03-14,Mike Jones,29,Male,Flu,120,80,70,Ibuprofen,Dr. Adams,7654321098,mike.j@email.com
+4,2023-03-15,Sarah Lee,43,Female,Diabetes,135,90,76,Metformin,Dr. White,6543210987,sarah@email.com
+5,2023-03-16,Chris Paul,50,Male,Hypertension,140,95,85,Lisinopril,Dr. Brown,Not Provided,chris@email.com
+6,2023-03-17,Emily Rose,41,Female,Asthma,125,85,78,Albuterol,Dr. Adams,5432109876,emily.rose@email.com
+7,2023-03-18,Kevin Hart,38,Male,Flu,118,75,70,Ibuprofen,Dr. White,4321098765,kevin@email.com
+8,2023-03-19,Olivia Kim,47,Female,Hypertension,145,100,88,Lisinopril,Dr. Brown,3210987654,olivia@email.com
+9,2023-03-20,Daniel Lee,52,Male,Diabetes,130,90,82,Metformin,Dr. White,2109876543,daniel@email.com
